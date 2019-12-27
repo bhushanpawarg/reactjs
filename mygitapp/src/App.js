@@ -1,11 +1,9 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-<<<<<<< HEAD
 //tt
-=======
 //HI
->>>>>>> 64d2f56749685363313870fd71b1b3c267079d94
+//tes
 function App() {
   return (
     <div className="App">
