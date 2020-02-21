@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/myapp/static/css/main.5e283e14.chunk.css",
-    "main.js": "/myapp/static/js/main.351126a7.chunk.js",
-    "main.js.map": "/myapp/static/js/main.351126a7.chunk.js.map",
-    "runtime-main.js": "/myapp/static/js/runtime-main.2b4fa720.js",
-    "runtime-main.js.map": "/myapp/static/js/runtime-main.2b4fa720.js.map",
-    "static/js/2.250dc4af.chunk.js": "/myapp/static/js/2.250dc4af.chunk.js",
-    "static/js/2.250dc4af.chunk.js.map": "/myapp/static/js/2.250dc4af.chunk.js.map",
-    "index.html": "/myapp/index.html",
-    "precache-manifest.4e7d29d68401679f68e9bc7e1a892aa0.js": "/myapp/precache-manifest.4e7d29d68401679f68e9bc7e1a892aa0.js",
-    "service-worker.js": "/myapp/service-worker.js",
-    "static/css/main.5e283e14.chunk.css.map": "/myapp/static/css/main.5e283e14.chunk.css.map",
-    "static/js/2.250dc4af.chunk.js.LICENSE": "/myapp/static/js/2.250dc4af.chunk.js.LICENSE",
-    "static/media/fonts.css": "/myapp/static/media/roboto-v20-latin-regular.8681f434.svg",
-    "static/media/logo.svg": "/myapp/static/media/logo.5d5d9eef.svg"
+    "main.css": "/reactjs/static/css/main.6b46ae36.chunk.css",
+    "main.js": "/reactjs/static/js/main.feffa502.chunk.js",
+    "main.js.map": "/reactjs/static/js/main.feffa502.chunk.js.map",
+    "runtime-main.js": "/reactjs/static/js/runtime-main.0508f712.js",
+    "runtime-main.js.map": "/reactjs/static/js/runtime-main.0508f712.js.map",
+    "static/js/2.250dc4af.chunk.js": "/reactjs/static/js/2.250dc4af.chunk.js",
+    "static/js/2.250dc4af.chunk.js.map": "/reactjs/static/js/2.250dc4af.chunk.js.map",
+    "index.html": "/reactjs/index.html",
+    "precache-manifest.5a6beec92fc150c30fad5cbb8b48a87e.js": "/reactjs/precache-manifest.5a6beec92fc150c30fad5cbb8b48a87e.js",
+    "service-worker.js": "/reactjs/service-worker.js",
+    "static/css/main.6b46ae36.chunk.css.map": "/reactjs/static/css/main.6b46ae36.chunk.css.map",
+    "static/js/2.250dc4af.chunk.js.LICENSE": "/reactjs/static/js/2.250dc4af.chunk.js.LICENSE",
+    "static/media/fonts.css": "/reactjs/static/media/roboto-v20-latin-regular.8681f434.svg",
+    "static/media/logo.svg": "/reactjs/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2b4fa720.js",
+    "static/js/runtime-main.0508f712.js",
     "static/js/2.250dc4af.chunk.js",
-    "static/css/main.5e283e14.chunk.css",
-    "static/js/main.351126a7.chunk.js"
+    "static/css/main.6b46ae36.chunk.css",
+    "static/js/main.feffa502.chunk.js"
   ]
 }
