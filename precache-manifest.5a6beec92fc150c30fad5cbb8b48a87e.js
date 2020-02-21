@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0973c2c3e1482a783813c7bc9c5ca4fe",
+    "revision": "70678f44aafe080ddbe5df749396fcd9",
     "url": "/reactjs/index.html"
   },
   {
-    "revision": "266bd17e35fb6b068d55",
-    "url": "/reactjs/static/css/main.40e2e13d.chunk.css"
+    "revision": "3ab16633549f37f76a3c",
+    "url": "/reactjs/static/css/main.6b46ae36.chunk.css"
   },
   {
     "revision": "c88cebed7dec8a545eeb",
@@ -16,12 +16,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactjs/static/js/2.250dc4af.chunk.js.LICENSE"
   },
   {
-    "revision": "266bd17e35fb6b068d55",
+    "revision": "3ab16633549f37f76a3c",
     "url": "/reactjs/static/js/main.feffa502.chunk.js"
   },
   {
     "revision": "b491fa457cacf38b0159",
     "url": "/reactjs/static/js/runtime-main.0508f712.js"
+  },
+  {
+    "revision": "094d8523a225faee9a2c5e7d290d0f48",
+    "url": "/reactjs/static/media/advent-pro-v10-latin-regular.094d8523.woff"
+  },
+  {
+    "revision": "30b71a1e2036a397b136035da3a45af9",
+    "url": "/reactjs/static/media/advent-pro-v10-latin-regular.30b71a1e.woff2"
+  },
+  {
+    "revision": "c6b8fb1f96c8fd7046ea9be09793c097",
+    "url": "/reactjs/static/media/advent-pro-v10-latin-regular.c6b8fb1f.svg"
+  },
+  {
+    "revision": "d0e861bdc37b6cd1823069a9f3ebb9d9",
+    "url": "/reactjs/static/media/advent-pro-v10-latin-regular.d0e861bd.eot"
+  },
+  {
+    "revision": "f6f31ed5d8b803bb6a4a00364db3fbdb",
+    "url": "/reactjs/static/media/advent-pro-v10-latin-regular.f6f31ed5.ttf"
   },
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
